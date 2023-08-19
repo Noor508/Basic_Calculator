@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin: 0;
+    text-align: center;
+    font-size: large;  
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: center;
+    background-color: cadetblue;
+    padding: 10px;
+    
+    /* Use flexbox to center vertically and horizontally */
+     
+    
+}
+
+
+
+
+span {
+    font-size:xx-large;
+    padding: 4px;
+
+    border-style: dashed;
+    border-radius:50px;
+    margin: 5px;
+    border-color:black;
+    
+}
+
+button {
+    margin: 10px 0;
+    background: white;
+    color: black;
+    border: 1px solid black;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 10px 8px;
+    border-radius: 20px;
+}
+
+
+#add-btn{
+    background: darkcyan;
+    color: white;
+    padding: 20px;
+    font-size: large;
+}
+
+
+#sub-btn {
+    background: darkorange;
+    color: white;
+    padding: 20px;
+    font-size: large;
+}
+    
+    
+#mul-btn{
+    background: darkviolet ;
+    color: white;
+    padding: 20px;
+    font-size: large;
+}
+
+#div-btn{
+    padding: 20px;
+    font-size: large;
+    background: darkgreen;
+    color: white;
+
+}
+
+
+
+
